@@ -1,2 +1,2 @@
-# Curso-de-NPM
+# Curso_De_NPM
 Curso de Platzi de NPM con Proyecto 
