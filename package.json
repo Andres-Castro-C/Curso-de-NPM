@@ -4,6 +4,7 @@
     "moment": "^2.29.4"
   },
   "devDependencies": {
-    "date-fns": "^2.29.1"
+    "date-fns": "^2.29.1",
+    "webpack": "^5.74.0"
   }
 }
